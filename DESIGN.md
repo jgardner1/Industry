@@ -36,6 +36,10 @@ Attributes (tend not to change):
 * Emotional Strength
 * Relationship Strength
 
+Personality Traits: Affects preferences. Much like the sims, people can have a
+few personality traits. Unlike the sims, they can only have 1 or 2 and rarely
+3.
+
 Skills: One for each activity, individuals can get more experience with an
 activity and get good at it. Or they can be trained or read books or think
 about it and get good at it. Combining all of these together leads to the
@@ -57,6 +61,12 @@ State values:
 * Thirst: (0 to 100) 0 is dehydrated, 100 is well-watered.
 * Socialization: (0 to 100) 0 is lonely, 100 is surrounded by friends and
   family.
+
+Inventory: What they are carrying on them. They will accumulate things they
+can't carry in their local workspace or load them into the machine they are using if it's too much.
+
+Effects: Various conditions that may be long lasting, typically diseases or
+such.
 
 ### Plan
 
